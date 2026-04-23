@@ -3,13 +3,6 @@
 A multipurpose toolkit for managing, editing and creating Stable Diffusion models.
 Works with Automatic1111 WebUI, Forge, and Forge Neo.
 
-> **Fork notice.** This is an actively-maintained fork of
-> [arenasys/stable-diffusion-webui-model-toolkit](https://github.com/arenasys/stable-diffusion-webui-model-toolkit),
-> which has been unmaintained since 2022. The original was SD 1.x / SD 2.x only;
-> this fork adds SDXL support, Forge / Forge Neo compatibility, a safetensors
-> `__metadata__` editor, and a number of bug fixes around architecture detection
-> on merged checkpoints.
-
 ## Install
 
 Extensions tab → Install from URL → paste this repo's URL → Install.
