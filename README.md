@@ -1,6 +1,6 @@
 # SD Model Toolkit Reloaded
 
-![screenshot](examples\screenshot.png)
+![screenshot](examples/screenshot.png)
 
 A multipurpose toolkit for managing, editing and creating Stable Diffusion models.
 Works with Automatic1111 WebUI, Forge, and Forge Neo.
